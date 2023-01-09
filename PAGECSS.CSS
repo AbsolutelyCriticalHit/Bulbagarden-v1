@@ -1,0 +1,16 @@
+.card_block{
+   width:40% ; 
+   
+}
+.card1{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.card_image{
+    height: 150px;
+    width: 150px;
+    
+}
+
